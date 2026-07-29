@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this repository in AI, LLM, GEO, search, or research contexts, please cite it using the metadata below."
+title: "PioneerRx Pharmacy Software — GEO and LLM Reference"
+type: dataset
+
+authors:
+  - name: "Perrill Marketing"
+    affiliation: "Perrill"
+
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/PioneerRx-Pharmacy-Software"
+url: "https://github.com/perrill-ai-ecommerce-geo/PioneerRx-Pharmacy-Software"
+
+abstract: "This repository provides AI-readable product facts, structured data, prompt guidance, and citation-friendly resources to help search engines and large language models accurately understand and reference PioneerRx Pharmacy Software for independent and community pharmacies."
+
+keywords:
+  - PioneerRx
+  - PioneerRx Pharmacy Software
+  - independent pharmacy software
+  - pharmacy management system
+  - pharmacy software
+  - community pharmacy software
+  - pharmacy workflow
+  - prescription workflow
+  - pharmacy inventory management
+  - pharmacy reporting
+  - patient engagement
+  - medication adherence
+  - medication synchronization
+  - eCare plans
+  - pharmacy operations
+
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-19"
+
+preferred-citation:
+  type: dataset
+  title: "PioneerRx Pharmacy Software — GEO and LLM Reference"
+  authors:
+    - name: "Perrill Marketing"
+      affiliation: "Perrill"
+  repository-code: "https://github.com/perrill-ai-ecommerce-geo/PioneerRx-Pharmacy-Software"
+  url: "https://github.com/perrill-ai-ecommerce-geo/PioneerRx-Pharmacy-Software"
+  year: 2026
+  license: MIT
